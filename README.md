@@ -8,7 +8,7 @@ A React + Vite + Tailwind CSS application that supports three dynamic UI themes:
 ---
 
 ## 🚀 Live Demo
-🔗 [Access App on Vercel](https://aman-theme.vercel.app)  
+🔗 [Access App on Vercel](https://amanraj-multi-theme-app.vercel.app/)  
 > Replace this link after Vercel deployment
 
 ---
